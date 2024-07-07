@@ -1,7 +1,5 @@
 # Data Collection With an API using Python
 
-# Data Collection with an API
-
 Most of the time, a data engineer is responsible for working with APIs to collect data and create datasets according to the needs of the business. Below is the process you can follow for the task of data collection with an API:
 
 1. **Define Data Requirements:**
